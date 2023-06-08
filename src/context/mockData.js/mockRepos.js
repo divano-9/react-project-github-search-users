@@ -107,7 +107,7 @@ export default [
     svn_url: "https://github.com/divano9/Angular-basic2",
     homepage: null,
     size: 102,
-    stargazers_count: 0,
+    stargazers_count: 3,
     watchers_count: 0,
     language: "TypeScript",
     has_issues: true,
