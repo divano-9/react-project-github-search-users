@@ -16,6 +16,7 @@ root.render(
       authorizationParams={{
         redirect_uri: window.location.origin,
       }}
+      cacheLocation="localstorage" // in case loging in with social services doesent get saved when getting back from error page
     >
       <GithubProvider>
         <App />
